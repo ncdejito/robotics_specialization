@@ -2,14 +2,18 @@
 Coursework for UPenn Robotics Specialization Course
 
 Quadrotor Control
-Fly upwards and hover
 
+**Fly upwards and hover**
+
+WEEK_2/pe1.gif
 ![c1pe1](./1_AERIAL_ROBOTICS/WEEK_2/pe1.gif)
 
-Fly horizontally in a sine wave trajectory
+**Fly horizontally in a sine wave trajectory**
 
-![c1pe1](./1_AERIAL_ROBOTICS/WEEK_3/pe2.gif)
+WEEK_3/pe2.gif
+![c1pe2](./1_AERIAL_ROBOTICS/WEEK_3/pe2.gif)
 
-Fly in 3D space in a helix trajectory
+**Fly in 3D space in a helix trajectory**
 
-![c1pe1](./1_AERIAL_ROBOTICS/WEEK_4/pe3.gif)
+WEEK_4/pe3.gif
+![c1pe3](./1_AERIAL_ROBOTICS/WEEK_4/pe3.gif)
